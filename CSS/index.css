@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(58, 53, 53);
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+
+.page {
+    background-color: rgb(21, 21, 34);
+    border: 1px solid black;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+}
+
+.bottomBar {
+    background-color: white;
+    border: 3px black solid;
+    margin: auto;
+    height: 4em;
+    
+}
+
+label {
+    display: inline-block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+button {
+    background-color: rgb(9, 187, 77);
+}
+
+#recherche {
+    
+    margin-top: 1em;
+    margin-right: 1em;
+    display: inline-block;
+    margin-left: 25%;
+    margin-bottom: 1em;
+    
+}
+#blockPresentation {
+    background-color: rgb(238, 231, 231);
+    border: 3px black solid;
+    margin: 1em;
+    padding-left: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.name {
+    color: rgb(25, 8, 85);
+    text-align: left;
+       
+    display: inline-block;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+.name :hover {
+    color: rgb(230, 141, 9);
+    text-decoration: none;
+} 
+

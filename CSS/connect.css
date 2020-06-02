@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(4, 4, 31);
+}
+
+.box {
+    border: 2px solid white;
+    background-color: rgba(1, 3, 39, 0.993);
+    height: 30em;
+    width: 25em;
+    margin: auto;
+    margin-top: 10%;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+label{
+    color: white;
+    display: block;
+    margin-top: 1em;
+}
