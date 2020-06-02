@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(58, 53, 53);
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+
+.content {
+    margin: 2em;
+    border: 1px solid white;
+    background-color: mintcream;
+}
+
+.userName {
+    color: Black;
+    display: inline-block;
+    margin: 1em;
+}
+
+.infoUser {
+    color: Black;
+    display: inline-block;
+    margin: 1em;
+}
+
+.retourBtn {
+    margin: 1em;
+}
